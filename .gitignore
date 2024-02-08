@@ -1,0 +1,32 @@
+# Python specific
+*.pyc
+__pycache__/
+
+# Virtual environment
+llm_env/
+env/
+Models/
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs and databases
+*.log
+*.sql
+
+# AI model files
+*.h5
+*.hdf5
+*.pickle
+*.pb
+*.ckpt
+*.pth
+*.onnx
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store

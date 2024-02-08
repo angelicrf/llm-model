@@ -1,0 +1,11 @@
+# install virtualenv
+python3.10 -m pip install virtualenv
+# Install virtualenv
+python3.10 -m venv llm_env
+# Activate venv
+source llm_env/bin/activate
+# Install requirements
+python3.10 -m pip install -r projectdevdeps.txt
+# Run Stramllit
+streamlit run myTest.py
+
