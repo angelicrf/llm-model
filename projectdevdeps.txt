@@ -7,3 +7,4 @@ langchain
 python-box
 streamlit
 transformers
+datasets
