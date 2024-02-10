@@ -8,3 +8,6 @@ python-box
 streamlit
 transformers
 datasets
+llama_index
+python-dotenv
+
