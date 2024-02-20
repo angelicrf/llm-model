@@ -10,4 +10,5 @@ transformers
 datasets
 llama_index
 python-dotenv
+torch
 
